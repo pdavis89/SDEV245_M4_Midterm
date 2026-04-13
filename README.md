@@ -23,7 +23,7 @@ The results are displayed in a Bootstrap interface.
 
 This makes the app a simple, visual way to understand how hashing and encryption work together to protect data.
 
-## 🧠 How the App Works (Step‑by‑Step)
+## How the App Works (Step‑by‑Step)
 
 1. User enters a message
    The message is submitted through a simple HTML form.
